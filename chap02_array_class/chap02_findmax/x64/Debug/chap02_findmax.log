@@ -1,0 +1,2 @@
+﻿  find_max.cpp
+LINK : fatal error LNK1104: 'xx.lib' 파일을 열 수 없습니다.
