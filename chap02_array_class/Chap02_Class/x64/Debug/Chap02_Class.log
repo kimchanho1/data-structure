@@ -1,0 +1,5 @@
+﻿  Class_example.cpp
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class\car.h(26,10): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xeb'이(가) 있습니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class\car.h(26,64): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class\car.h(26,64): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 3개가 제공되었습니다.
+  Chap02_Class.vcxproj -> C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\x64\Debug\Chap02_Class.exe

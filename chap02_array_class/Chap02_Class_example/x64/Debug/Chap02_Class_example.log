@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(13,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(28,1): error C2601: 'display': 지역 함수 정의가 잘못되었습니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(35,8): error C2182: 'add': 이 'void' 사용은 유효하지 않습니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(35,12): error C2065: 'Polynomial': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(35,23): error C2146: 구문 오류: ')'이(가) 'a' 식별자 앞에 없습니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(35,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(36,8): error C2065: 'a': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(36,19): error C2065: 'b': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(37,13): error C2065: 'a': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(38,26): error C2065: 'b': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(39,25): error C2065: 'b': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(39,39): error C2065: 'b': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(42,13): error C2065: 'b': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(43,26): error C2065: 'a': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(43,37): error C2065: 'b': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(44,25): error C2065: 'a': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(44,39): error C2065: 'a': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(47,1): error C2601: 'isZero': 지역 함수 정의가 잘못되었습니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(30,24): error C2065: 'degree': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(31,28): error C2065: 'coef': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(31,37): error C2065: 'degree': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(31,12): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(31,12): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(31,12): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%5.1f'에 필요합니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(33,22): error C2065: 'coef': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(33,27): error C2065: 'degree': 선언되지 않은 식별자입니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(33,11): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(33,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(33,11): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%4.1f'에 필요합니다.
+C:\Users\전자공학부\Desktop\datastructure05\data-structure\chap02_array_class\Chap02_Class_example\Polynomial.h(47,26): error C2065: 'degree': 선언되지 않은 식별자입니다.
