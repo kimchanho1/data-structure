@@ -132,6 +132,8 @@
   <ItemGroup>
     <ClInclude Include="Polynomial.h" />
     <ClInclude Include="birthday.h" />
+    <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="smarthome.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

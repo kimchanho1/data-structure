@@ -1,5 +1,7 @@
 #include "Polynomial.h"
 #include "birthday.h"
+#include "Rectangle.h"
+#include "smarthome.h"
 
 void swap(int& x, int& y)  // 참조에의한 레퍼런스
 {
@@ -31,10 +33,24 @@ int main() {
 
 
 	// 72p .참조형 또는 래퍼런스 형
+	/* 
 	int a = 1, b = 2;
 	printf("a=%d, b=%d\n", a, b);
 	swap(a, b);
 	printf("swap호출 후 a=%d, b=%d", a, b);
+	
 
 	return 0;
+	*/
+
+	/*Rectangle r1(4, 5);
+	printf("rectangle 1 Area : %lf\n", r1.getArea());   // printf 사용
+	std::cout << "rectangle 1 Area : " << r1.getArea() << std::endl; // iostream의 cout 사용, endl은 줄바꿈
+	std::cout << "Is square?" << r1.isSquare() << std::endl;
+
+
+	/*SmartHome myHome("홍길동", 23, 40, true);
+	myHome. printStature()
+	myHome. set
+	*/
 }

@@ -6,10 +6,10 @@ int main()
 	Car		yourCar;  //yourcar라는 객체를 만듬
 	// Car myCar(100, "myCar", 4);
 	yourCar.display(); // protected의 함수는는 접근 불가!
-	yourCar.whereAmI();
+	yourCar.whereAmI();  //객체의 주소를 나타내는 함수
 	yourCar.gear = 5;
 	yourCar.display();
-	yourCar.changeGear(3); // int g=4로 미리 입력이 되어있기에 아무것도 입력하지 않으면 4로고정이다, 숫자로 입력하면 그에 맞게 바뀐다.
+	yourCar.changeGear(3); // 헤더파일에 int g=4로 미리 입력이 되어있기에 아무것도 입력하지 않으면 4로고정이다, 숫자로 입력하면 그에 맞게 바뀐다., g를 디폴트 매개변수라고도 한다.
 	yourCar.display();
 
 	SportsCar myCar;
