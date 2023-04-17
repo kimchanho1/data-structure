@@ -32,5 +32,11 @@
     <ClInclude Include="smarthome.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Pet.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Music.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

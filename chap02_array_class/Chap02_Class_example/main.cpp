@@ -1,8 +1,11 @@
-#include "Polynomial.h"
+/*#include "Polynomial.h"
 #include "birthday.h"
 #include "Rectangle.h"
 #include "smarthome.h"
+#include "Pet.h" */
+#include "Music.h"
 
+/*
 void swap(int& x, int& y)  // 참조에의한 레퍼런스
 {
 	int tmp;
@@ -10,9 +13,10 @@ void swap(int& x, int& y)  // 참조에의한 레퍼런스
 	x = y;
 	y = tmp; 
 }
-
-int main() {
+*/
 /*
+int main() {
+
 	Polynomial a, b, c;
 
 	a.read();
@@ -53,4 +57,29 @@ int main() {
 	myHome. printStature()
 	myHome. set
 	*/
+/*
+	Pet myPet("Lucky", 5, "dog");
+	cout << "My pet name is" << myPet.getName() << endl;
+	cout << "My pet age is" << myPet.getAge() << endl;
+	Puppy myPuppy("Kong", 4, "dog", "Puddle");
+	cout << "My pet name is" << myPet.getName() << endl;
+	cout << "My pet age is" << myPet.getAge() << endl;
+}
+*/
+
+
+//music streaming service, 생성
+MusicStreamingService myService("MyMusic");
+myService.addMusic("OMG", "뉴진스", 2023);
+myService.addMusic("OMG", "뉴진스", 2023);
+myService.addMusic("OMG", "뉴진스", 2023);
+myService.addMusic("OMG", "뉴진스", 2023);
+
+//Search for music by title
+string music_title;
+cout << "Enter the <usic Title :";
+cin >> music_tutle;
+Music* result = myService.searchByTitle(music_title);
+if (resuly != null) {
+	cout << "Found :" << result -> getTitle() << "by" << "added to " << service
 }
